@@ -1,1 +1,13 @@
-# HealthyFriend
+## HealthyFriend
+
+### 项目简介
+本项目基于InternLM实现
+
+
+### 项目功能
+
+#### 任务输入
+
+#### 模型微调
+
+### 后续更新方向
