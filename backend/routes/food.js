@@ -25,7 +25,7 @@ module.exports = router;
 // const axios = require('axios');
 // const router = express.Router();
 
-// const OPENAI_API_KEY = 'sk-proj-CHPujSBCqVeLJ9473Ib2T3BlbkFJX734zlhOjfAuEb0hn0yE'; // 替换为你的 OpenAI API 密钥
+// const OPENAI_API_KEY = ''; // 替换为你的 OpenAI API 密钥
 // const API_URL = 'https://api.openai.com/v1/engines/gpt3.5-turbo/completions';
 
 // router.get('/:name', async (req, res) => {
@@ -62,4 +62,4 @@ module.exports = router;
 
 // module.exports = router;
 
-//curl https://api.openai.com/v1/engines/davinci-codex/completions -H "Content-Type: application/json" -H "Authorization: Bearer sk-proj-CHPujSBCqVeLJ9473Ib2T3BlbkFJX734zlhOjfAuEb0hn0yE" -d '{"prompt": "What is the calorie content of an apple?","max_tokens": 60}'
+//curl https://api.openai.com/v1/engines/davinci-codex/completions -H "Content-Type: application/json" -H "Authorization: Bearer " -d '{"prompt": "What is the calorie content of an apple?","max_tokens": 60}'
