@@ -6,3 +6,5 @@ export const getFoodCalories = async (foodName) => {
   const response = await axios.get(`${API_URL}/food/${foodName}`);
   return response.data;
 };
+
+
