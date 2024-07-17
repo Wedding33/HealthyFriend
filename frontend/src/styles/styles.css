@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .HomePage {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .FoodSearch {
+    margin-top: 20px;
+  }
+  
+  .FoodSearch input {
+    padding: 10px;
+    font-size: 16px;
+    width: 70%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .FoodSearch button {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #28a745;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .FoodSearch button:hover {
+    background-color: #218838;
+  }
+  

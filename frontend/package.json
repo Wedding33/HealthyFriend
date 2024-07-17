@@ -1,0 +1,43 @@
+{
+    "name": "healthyfriend",
+    "version": "1.0.0",
+    "description": "HealthyFriend - A health assistant project based on AI and blockchain",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "keywords": [
+      "react",
+      "health",
+      "AI",
+      "blockchain"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.4.0",
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "react-scripts": "5.0.1"
+    },
+    "devDependencies": {
+      "eslint": "^8.23.0",
+      "eslint-plugin-react": "^7.31.0"
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
+  
